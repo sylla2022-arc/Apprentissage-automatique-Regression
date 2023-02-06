@@ -52,8 +52,9 @@ Les données comprenent des variables pertinentes suivantes:
 Notre objectif majeur comprend:
 
 #  Notebokk1: 
-**1** Nettoyage & feature engineering 
-**2** Exploration  (Analyse de données)
+*  **1.** Nettoyage & feature engineering 
+
+* **2.** Exploration  (Analyse de données)
 
 # Notebook2:
 
