@@ -52,17 +52,18 @@ Les données comprenent des variables pertinentes suivantes:
 Notre objectif majeur comprend:
 
 #  Notebokk1: 
-**1** Nettoyage feature engineering 
-**2** Exploration  
+**1** Nettoyage & feature engineering 
+**2** Exploration  (Analyse de données)
+
+# Notebook2:
 
 Prédire les emisisions de **CO2** des vehicules en fonction de certaines informations (Variables explicatives)
 
 * En utilisant 4 à 5 modéles différents
 
-* En comparant  les scores
+* En comparant les scores
     
 * En choissisant le meilleur modèle
-
 
 # Description des données
 
